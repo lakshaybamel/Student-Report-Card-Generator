@@ -8,10 +8,11 @@ A simple Java console application that generates a student report card using bas
 - Displays a formatted report card  
 - Clean 3-class structure (Main, Student, ReportCard)
 
-📚 Concepts Used
+## 📚 Concepts Used
 Classes & Objects
 Methods
 Arrays
 Conditional Statements
 
+##
 ⭐ If you like this project, feel free to star the repo.
