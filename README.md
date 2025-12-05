@@ -8,11 +8,6 @@ A simple Java console application that generates a student report card using bas
 - Displays a formatted report card  
 - Clean 3-class structure (Main, Student, ReportCard)
 
-## 🛠️ How to Run
-```bash
-javac *.java
-java Main
-    
 📚 Concepts Used
 Classes & Objects
 Methods
